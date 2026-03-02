@@ -6,8 +6,8 @@
   
   // 1. Definição inicial das credenciais (Edite aqui se necessário)
   window.SUPABASE_CONFIG = {
-    URL: "https://SEU-PROJETO.supabase.co",
-    ANON_KEY: "SUA-CHAVE-ANON"
+    URL: "https://omxdvwtenzvhlsvqlren.supabase.co",
+    ANON_KEY: "sb_publishable_e7dyXMyMVxb1gQIVqCtgaw_d0jh0gnQ"
   };
 
   // Função para configurar o Supabase
