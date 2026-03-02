@@ -7,7 +7,7 @@
   // 1. Definição inicial das credenciais (Edite aqui se necessário)
   window.SUPABASE_CONFIG = {
     URL: "https://omxdvwtenzvhlsvqlren.supabase.co",
-    ANON_KEY: "sb_publishable_e7dyXMyMVxb1gQIVqCtgaw_d0jh0gnQ"
+    ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9teGR2d3Rlbnp2aGxzdnFscmVuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIwMjY0OTksImV4cCI6MjA4NzYwMjQ5OX0.j0Afyw4bQB0sixDzFUxXcdKwjuK0uJWDZQT-qo79iD8"
   };
 
   // Função para configurar o Supabase
