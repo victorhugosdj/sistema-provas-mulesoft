@@ -26,11 +26,10 @@ O projeto está organizado de forma modular para facilitar a manutenção:
 ├── index.html          # Ponto de entrada da aplicação (UI Principal)
 ├── styles.css          # Estilização moderna e responsiva
 ├── vercel.json         # Configurações de deploy para Vercel
-├── /src                # Lógica da aplicação (JavaScript)
-│   ├── app.js          # Lógica principal, roteamento e exames
-│   ├── questions-data.js # Banco de dados central de questões
-│   ├── supabase.js     # Integração com tabelas do Supabase
-│   └── supabase-config.js # Configurações de conexão (URL/Key)
+├── app.js              # Lógica principal, roteamento e exames
+├── questions-data.js   # Banco de dados central de questões
+├── supabase.js         # Integração com tabelas do Supabase
+└── supabase-config.js  # Configurações de conexão (URL/Key)
 ├── /sql                # Scripts de Banco de Dados
 │   ├── supabase_schema.sql # Estrutura de tabelas e triggers
 │   └── supabase_policies.sql # Regras de segurança (RLS)
